@@ -39,21 +39,22 @@ To run this project, you need:
         ```
         project_root/
         ├── main.py
-        └── Resources/
-            ├── Background.png
-            ├── Modes/
-            │   ├── mode1.png
-            │   ├── mode2.png
-            │   └── mode3.png
-            └── Icons/
-                ├── icon1.png
-                ├── icon2.png
-                ├── icon3.png
-                ├── icon4.png
-                ├── icon5.png
-                ├── icon6.png
-                ├── icon7.png
-                └── icon8.png
+        ├── Background.png
+        ├── Modes/
+        │   ├── 1.png
+        │   ├── 2.png
+        |   ├── 3.png
+        │   └── 4.png
+        └── Icons/
+            ├── 1.png
+            ├── 2.png
+            ├── 3.png
+            ├── 4.png
+            ├── 5.png
+            ├── 6.png
+            ├── 7.png
+            ├── 8.png
+            └── 9.png
         ```
 2.  **Run the script:**
     Open your terminal or command prompt, navigate to the project directory, and execute the script:
